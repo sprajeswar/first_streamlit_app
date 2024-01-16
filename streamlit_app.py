@@ -1,4 +1,4 @@
-#import streamlit
+import streamlit
 
 #streamlit.title('My another trial in Streamlit!!!')
 #streamlit.header("This is header")
